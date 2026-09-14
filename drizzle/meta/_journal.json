@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787559071627,
+      "tag": "0000_faithful_dorian_gray",
+      "breakpoints": true
+    }
+  ]
+}

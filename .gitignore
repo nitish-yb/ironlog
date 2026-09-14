@@ -40,6 +40,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# Local Sites identity (copy the example and provision your own resources)
+/.openai/hosting.json
 
 # vercel
 .vercel
